@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Christina Izquierdo!
+- <h1>👋 Hi there, I’m Christina Izquierdo!</h1>
 - 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
