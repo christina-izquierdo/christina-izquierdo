@@ -1,8 +1,8 @@
 - <h1>👋 Hi there, I’m Christina Izquierdo!</h1>
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript and React.
+- 💞️ I’m looking to collaborate on interesting projects, games, and web apps.
+- 📫 How to reach me on here or through my instagram @codewithizzy...
 <hr/>
 - 🧰	Toolbox
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML 5 logo" width=50px height=50px/> 
